@@ -299,6 +299,7 @@ class SickRage(object):
         # Build from the DB to start with
         self.loadShowsFromDB()
 
+	logger.log(u"Testing Hound")
         if self.forcedPort:
             logger.log(u"Forcing web server to port " + str(self.forcedPort))
             self.startPort = self.forcedPort
