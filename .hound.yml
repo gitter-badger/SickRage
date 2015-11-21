@@ -1,3 +1,5 @@
 javascript:
   config_file: .jshintrc
 
+python:
+  enable: true
