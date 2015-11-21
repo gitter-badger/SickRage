@@ -2,4 +2,4 @@ javascript:
   config_file: .jshintrc
 
 python:
-  enabled: true
+  enabled: false
